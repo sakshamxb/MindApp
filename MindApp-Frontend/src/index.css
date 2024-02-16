@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-image: url(./background.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.bottom-div {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    opacity: 0.8;
+  }
+#home-main{
+    background-color: white;
+    opacity: 50%;
+    height: 80vh;
+    width: 100vw;
+
+}
